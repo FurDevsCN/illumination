@@ -1,17 +1,36 @@
 # 欢迎你来访问这个项目
 
-这里我实在不知道写什么
+!!! tip "提示"
 
-## 这是一个二级标题（反正是一个md）
+	此项目目前还是草案阶段，如果你有想法加入我们，或者有好的建议，请联系福林（2111626525）
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+
+这一章节将通过几个简单的问题阐述这个项目的基本信息
+
+## What - 这个项目是什么
+Furry照明弹是一个基于公认共识，共建共享的风险用户事件记录器。
+记录Furry圈内发生的恶性事件即相关当事人QQ信息（如正经人事件）。
+通过Github仓库共同维护一份Furry圈内的恶性事件及事件相关当事人记录。
+以实现项目成员间风险规避与自动化危机处置。
+
+##Why - 为什么要做这个项目
+近期的“炸群”事件频发，我们想通过一个共享的风险名单，以QQ机器人的技术手段，来共同规避成员间的风险。为确保公信力，也为了记住这次，以及以后的事件，我们选择了这种方式，来建立Furry照明弹。
+
+##How - 怎样实现我们的目的
+通过众决的恶性事件进入仓库后（通过pull request），我们要求项目成员进行联合抵制。具体实施方式由成员自行决定。
+通常Furry QQ Robot应当执行：入群警示、黑名单查询提示、自动拒绝入群等操作。
+
+##我们受理什么样的事件
+需要联合抵制的事件通常具有以下特征
+* 损害的是不特定公众的利益
+即需要抵制的对象没有倾向性的选择损害目标（情感、经济纠纷等不属于此列）
+* 损害已经事实发生
+需要抵制的对象正在或已经实施了损害行为（威胁不在此列）
+
+##怎么联系我们
+GitHub issue、pr
+这段待定
 
 ## 很烦
+写不下去了，天亮再说。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
