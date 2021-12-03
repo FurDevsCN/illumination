@@ -1,9 +1,9 @@
 site_name: Furry 照明弹
 repo_url: https://github.com/FurryUniverse/illumination
+edit_uri: 'blob/master/docs/'
 copyright: Copyright &copy; 2021 - 2022 Furry Universe
 theme:
   name: material
-  custom_dir: overrides
   logo: assets/logo.png
   language: zh
   palette:
@@ -36,6 +36,9 @@ extra:
 
 copyright: 'Copyright &copy; 2021 - 2022 Furry Universe Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="tx-switch">
 <br><a href="http://beian.miit.gov.cn">蜀ICP备18005894号-5</a>'
+nav:
+  - 关于项目:
+      - 介绍: index.md
 extra:
   social:
     - icon: fontawesome/brands/github
