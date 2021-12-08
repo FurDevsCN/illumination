@@ -16,7 +16,7 @@ GitHub Pages：https://illumination.tail.icu/
 
 ## 2. 成员
 
-<embed src="http://github.api.fur93.icu/orgs/FurryUniverse/members.svg" type="image/svg+xml" pluginspage="http://www.adobe.com/svg/viewer/install/" />
+<a href="https://github.com/orgs/FurryUniverse/people"><img src="https://github.api.fur93.icu/orgs/FurryUniverse/members.svg" /></a>
 
 ## 3. 联系我们
 
