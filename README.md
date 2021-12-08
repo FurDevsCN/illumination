@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="illuminationLOGO" src="docs/assets/logo.png" width="300"/>
+<img alt="illuminationLOGO" src="docs/assets/logo.png" width="72"/>
 </div>
 
 # illumination - Furry照明弹
