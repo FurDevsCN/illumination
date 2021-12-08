@@ -1,3 +1,7 @@
+<div align="center">
+<img alt="illuminationLOGO" src="docs/assets/logo.png" width="300"/>
+</div>
+
 # illumination - Furry照明弹
 
 ## 0. 关于本项目
