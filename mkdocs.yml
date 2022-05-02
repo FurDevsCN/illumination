@@ -1,7 +1,7 @@
 site_name: Furry 照明弹
-repo_url: https://github.com/FurryUniverse/illumination
+repo_url: https://github.com/FurDevsCN/illumination/
 edit_uri: 'blob/master/docs/'
-copyright: Copyright &copy; 2021 - 2022 Furry Universe
+copyright: Copyright &copy; 2021 - 2022 FurDevsCN
 theme:
   name: material
   logo: assets/logo.png
@@ -45,4 +45,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/FurryUniverse/illumination
+      link: https://github.com/FurDevsCN/illumination/
