@@ -38,7 +38,10 @@ copyright: 'Copyright &copy; 2021 - 2022 Furry Universe Team&nbsp;&nbsp;&nbsp;&n
 <br><a href="http://beian.miit.gov.cn">蜀ICP备18005894号-5</a>'
 nav:
   - 关于项目:
-      - 介绍: index.md
+    - 介绍: index.md
+  - API:
+    - 查询: api/search.md
+    - 返回值参考表: api/respData.md
 extra:
   social:
     - icon: fontawesome/brands/github
